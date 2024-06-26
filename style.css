@@ -61,7 +61,7 @@ h2 {
     position: absolute;
     left: 10px;
     top: 35px;
-    color: #aaa;
+    color: green;
     font-size: 18px;
 }
 .form-group input[type="date"] {
